@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Simple jquery.sparkline package",
   version: "1.0.0",
-  git: " \* Fill me in! *\ "
+  git:"https://github.com/rollymaduk/actionmanager.git"
 });
 
 Package.onUse(function(api) {
